@@ -26,15 +26,8 @@ A more advanced implementation of the precedent example
 ### Basic classification using a DNN
 - **[MNIST1](MNIST/01-DNN-MNIST.ipynb)** - [Simple classification with DNN](MNIST/01-DNN-MNIST.ipynb)  
 An example of classification using a dense neural network for the famous MNIST dataset
-- **[MNIST2](MNIST/02-CNN-MNIST.ipynb)** - [Simple classification with CNN](MNIST/02-CNN-MNIST.ipynb)  
-An example of classification using a convolutional neural network for the famous MNIST dataset
 
 
-
-
-## Installation
-
-Have a look about **[How to get and install](https://fidle.cnrs.fr/installation)** these notebooks and datasets.
 
 ## Licence
 
