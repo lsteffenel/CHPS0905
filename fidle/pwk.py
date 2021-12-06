@@ -76,7 +76,7 @@ def init(name=None, run_directory='./run'):
     #
     #datasets_dir = os.getenv('FIDLE_DATASETS_DIR', False)
     #if datasets_dir is False:
-    datasets_dir=("/home/jovyan/datasets")
+    datasets_dir=("./")
         #error_datasets_not_found()
     # Resolve tilde...
     #datasets_dir=os.path.expanduser(datasets_dir)
