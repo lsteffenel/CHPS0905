@@ -69,8 +69,8 @@ def init(name=None, run_directory='./run'):
     
     # ---- Load matplotlib style and css
     #
-    matplotlib.style.use(mplstyle)
-    load_cssfile(cssfile)
+    #matplotlib.style.use(mplstyle)
+    #load_cssfile(cssfile)
     
     # ---- datasets location
     #
